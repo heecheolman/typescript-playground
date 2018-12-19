@@ -1,0 +1,30 @@
+{
+  "name": "typescript-playground",
+  "version": "1.0.0",
+  "description": "typescript playground!",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest",
+    "start": "webpack-dev-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heecheolman/typescript-playground.git"
+  },
+  "author": "heecheolman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/heecheolman/typescript-playground/issues"
+  },
+  "homepage": "https://github.com/heecheolman/typescript-playground#readme",
+  "devDependencies": {
+    "@types/jest": "^23.3.10",
+    "awesome-typescript-loader": "^5.2.1",
+    "jest": "^23.6.0",
+    "ts-jest": "^23.10.5",
+    "typescript": "^3.2.2",
+    "webpack": "^4.27.1",
+    "webpack-cli": "^3.1.2",
+    "webpack-dev-server": "^3.1.10"
+  }
+}
