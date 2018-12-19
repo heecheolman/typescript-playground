@@ -29,7 +29,4 @@ module.exports = {
     plugins: [
         new CheckerPlugin(),
     ],
-    devServer: {
-        hot: true,
-    }
 };

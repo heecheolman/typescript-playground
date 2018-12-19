@@ -1,4 +1,4 @@
-# Typescript Playground
+# 📦 Typescript Playground 
 타입스크립트를 자유롭게 테스트하려고 만든 저장소입니다.
 
 ## Usage
@@ -8,6 +8,18 @@ $ cd typescript-playground
 $ npm install
 $ npm start 
 ```
+
+## Module
+
+* webpack
+* webpack-cli
+* webpack-dev-server
+* typescript
+* ts-jest
+* jest
+* awesome-typescript-loader
+* @types/jest
+
 
 
 ## 참고
