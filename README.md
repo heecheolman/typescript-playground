@@ -15,10 +15,7 @@ $ npm start
 * webpack-cli
 * webpack-dev-server
 * typescript
-* ts-jest
-* jest
 * awesome-typescript-loader
-* @types/jest
 
 
 
